@@ -380,5 +380,5 @@ Fungsi ini mencetak daftar semua mahasiswa dalam format tabel.
 
 # Hasil
 
-![Screenshot 2024-11-16 203616](https://github.com/user-attachments/assets/31128f1d-08f1-4bc8-ad36-13ee7e6ea6b9)
+![Screenshot 2024-11-16 203411](https://github.com/user-attachments/assets/03315397-78f8-4f9c-8316-f63fe1e8be9a)
 
